@@ -1,0 +1,281 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.headi{
+    
+  
+    border-bottom: 1px solid #7f8c8d;
+}
+
+.login_message{
+    position: absolute; 
+   
+    left: 45%;
+    color: rgb(186, 36, 36);
+}
+
+.headi ul{
+    list-style-type: none;
+
+
+}
+
+.clear-fix{
+    clear: both;
+    float: none;
+}
+
+.headi ul li {
+   
+    display: inline;
+    padding: 1%;
+
+}
+
+
+.t-center{
+    text-align: center;
+}
+
+.headi ul li a{
+    color: #16a085;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+
+.headi ul li a:hover{
+    color: #3498db;
+}
+
+.foot{
+   padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+   
+   
+}
+
+.footer{
+    background-color:#22d5b1; 
+   color: white;
+}
+
+
+
+.bod{
+    padding: 3% 0 ;
+    width: 80%;
+    margin: 0 auto;
+   
+   
+}
+
+
+
+.body{
+    background-color: #ecf0f1;
+    margin: 0%;
+}
+
+.col{
+    width: 16%;
+    padding: 2%;
+    margin: 2%;
+    background-color: white;
+    float: left;
+}
+
+.btn1{
+    background-color: #16a085;
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn1:hover{
+    background-color: #1fd4b0;
+}
+
+.btn2{
+    background-color: #2980b9;
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn2:hover{
+    background-color: #3498db;
+}
+
+.btn3{
+    background-color: #c0392b;
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+    border-radius: 5px;
+   
+}
+
+.btn3:hover{
+    background-color: #e74c3c;
+}
+
+.btn4{
+    background-color: #d35400;
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn4:hover{
+    background-color: #e67e22;
+}
+
+
+.tableau{
+    width: 100%;
+    padding: 5%;
+}
+
+.tableau tr td{
+    padding: 1%
+}
+
+.tableau tr th{
+    border-bottom: 1px solid #7f8c8d;
+    text-align: left;
+    padding: 1%;
+}
+
+.bod_order{
+    padding: 3% 0 ;
+    width: 100%;
+    margin: 0 auto;
+   
+   
+}
+
+.qty_order{
+    border: 1px solid;
+    padding: 1%;
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 5px;
+
+}
+
+.tab_order{
+    width: 100%;
+    padding: 1%;
+}
+
+.tab_order tr td{
+    padding: 1%
+}
+
+.tab_order tr th{
+    border-bottom: 1px solid #7f8c8d;
+    text-align: left;
+    padding: 1%;
+}
+
+.tab{
+    width: 30%;
+}
+
+.tab td {
+    padding: 1%;
+}
+
+.tab td input[type="text"]{
+    border: 1px solid;
+    padding: 1%;
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 5px;
+
+}
+
+.tab td input[type="password"]{
+    border: 1px solid;
+    padding: 1%;
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 5px;
+
+}
+.taby{
+ 
+    width: 50%;
+    margin: 3% auto;
+    
+    padding: 1%;
+    background-color: white;
+    border-radius: 15px;
+    align-content: center;
+
+
+
+}
+
+.tab1{
+    width: 100%;
+   
+}
+
+
+.tab1 tr td {
+    padding: 1%;
+
+}
+
+.te{
+    font-size: large;
+    font-weight: bold;
+    margin: 1%;
+ 
+
+
+}
+
+
+.tab1 td input[type="text"]{
+    border: 1px solid;
+    padding: 1%;
+    width: 80%;
+    font-size: 1rem;
+    border-radius: 5px;
+
+}
+
+.tab1 td input[type="password"]{
+    border: 1px solid;
+    padding: 1%;
+    width: 80%;
+    font-size: 1rem;
+    border-radius: 5px;
+
+}
+
+.btn5{
+    background-color: #16a085;
+    color: white;
+    padding: 2%;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 15%;
+ 
+}
+
+.btn5:hover{
+    background-color: #1fd4b0;
+}

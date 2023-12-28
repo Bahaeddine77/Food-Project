@@ -1,0 +1,332 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+
+}
+
+h2{
+    color: #2c3e50;
+    font-size: 2rem;
+}
+
+.container {
+  
+    margin: 0 5%  auto;
+    padding: 1%;
+}
+
+.logoo{
+    width: 90px;
+    height: 100px;
+    float: left;
+    
+}
+
+/*hetha mouhem dima bech t5ali blasa akther l2ayy 7aja */
+.clear_fix{
+    clear: both;
+    float: none;
+}
+
+.imgl{
+    width: 100%;
+}
+
+.img10{
+    width: 100%;
+    border-radius: 15px;
+
+}
+
+.menu{
+    text-align: right;
+    line-height: 80px;
+
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    display: inline;
+    padding: 10px;
+}
+
+.menu ul li a{
+    color: #16a085;
+    font-weight: bold;
+}
+.t_center{
+    text-align: center;
+}
+
+/*hethi bech t5ali ki t7ot souris fou9hom yetbadel lounhom */
+.menu ul li a:hover{
+    color: #2980b9;
+}
+
+.food_search{
+    background-image: url("../images/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 6% 0;
+}
+
+.food_search input[type="search"]{
+    border: none;
+    padding: 1%;
+    width: 80%;
+    font-size: 1rem;
+    border-radius: 5px;
+
+}
+
+.but{
+    width: 70px;
+    height: 50px;
+    font-size: 1rem;
+    background-color: #7f8c8d;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+}
+
+.but_see_all{
+    position: absolute; 
+    bottom: 0px;
+    left: 45%;
+    color: #16a085;
+}
+
+.but_order{
+    
+  
+    font-size: 1rem;
+    background-color: #7f8c8d;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    padding: 2%;
+    position: absolute;
+    top: 170px;
+}
+
+.button:hover{
+    background-color: #16a085;
+}
+
+
+.categories{
+    padding: 4% 0;
+    
+}
+
+.border_radius{
+    border-radius: 15px;
+}
+
+
+.categ{
+   
+    width: 28%;
+    float: left;
+    margin: 2%;
+}
+
+.float{
+    position: relative;
+    
+}
+
+/*object-fit: cover y5ali ltaswira tet9ass wou tet7at bel size eli 3leha men8ie matabda mechya bel toul wala bel 3ardh      */
+.img1 {
+    width: 100%;
+    height: 560px;
+    object-fit: cover;
+  }
+
+.text_white{
+    color: aliceblue;
+}
+
+.float_text{
+    position: absolute;
+    bottom: 50px;
+    left: 35%;
+    font-size: 2rem;
+
+}
+
+.food_menu{
+    padding: 4% 0;
+    background-color: #ecf0f1;
+    
+}
+
+.food_menu1{
+ 
+    width: 42%;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+    background-color: white;
+    border-radius: 15px;
+}
+
+
+.img2{
+    width: 40%;
+    height: 200px;
+    object-fit: cover;
+    float: left;
+
+}
+
+.ig2{
+    width: 40%;
+    height: 200px;
+    object-fit: cover;
+    float: left;
+
+}
+
+.desc_food{
+    margin-left: 8%;
+    width: 50%;
+    float: left;
+    position: relative;
+}
+
+.desc_img{
+    margin-left: 8%;
+    width: 32%;
+    padding: 71px 0;
+    
+    float: left;
+}
+
+.desc_img_categ{
+    margin-left: 8%;
+    width: 32%;
+    padding: 239px 100px;
+    border: 1px solid black;
+   
+    
+    float: left;
+}
+
+.price{
+    font-size: large;
+    font-weight: bold;
+    margin: 2% 0;
+}
+
+.desc{
+    margin: 2% 0;
+    color: #7f8c8d;
+}
+
+.socil ul{
+    list-style-type: none;
+
+}
+
+.social ul li{
+    display: inline;
+    padding: 5%;
+}
+
+
+.search_text{
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.searchi{
+    text-decoration: none;
+    color: #8e44ad;
+}
+
+.searchi:hover{
+    color: #16a085;
+}
+
+
+.food_menu2{
+ 
+        width: 50%;
+        margin: 3% auto;
+        
+        padding: 1%;
+        background-color: white;
+        border-radius: 15px;
+        align-content: center;
+    
+    
+    
+}
+
+.quantity{
+    font-weight: bold;
+}
+
+.food_search input[type="number"]{
+    border: 1px solid;
+    padding: 1%;
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 5px;
+
+}
+
+.te{
+    font-size: large;
+    font-weight: bold;
+
+
+}
+
+.food_search input[type="text"]{
+    border: 1px solid;
+    margin: 0% 0% 3% 0%;
+
+    width: 90%;
+    font-size: 1rem;
+    border-radius: 5px;
+
+}
+
+.butt{
+   height: 40px;
+    font-size: 1rem;
+    background-color: #7f8c8d;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    margin-top: 4%;
+}
+
+.spacy{
+    padding: 1%;
+}
+
+.search_textt{
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: rgba(127, 140, 141,0.7);
+   
+    text-align: center;
+}
+
+.search_text_not_found{
+    color: rgb(177, 59, 59);
+    font-size: xx-large;
+    font-weight: bolder;
+    padding: 15%;
+   
+    text-align: center;
+}
